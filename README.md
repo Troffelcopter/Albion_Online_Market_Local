@@ -1,5 +1,5 @@
 # Albion_Online_Market_Local
-Ziel ist es einen Marketplace Überwacher für Albion Online auf einer lokal erreichbaren Website zu haben.
+Ziel ist es einen Marketplace Überwacher für Albion Online auf einer lokal erreichbaren Website zu haben.\n
 www.albion-online-data.com
 Bietet eine API um Daten von dem Marktplace zu bekommen
 
